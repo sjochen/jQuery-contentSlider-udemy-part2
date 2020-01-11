@@ -9,4 +9,4 @@ Languages Used
 --------------
 `HTML` `CSS` `javaScript\jQuery`
 
-
+Deployed:  https://sjochen.github.io/jQuery-contentSlider-udemy-part2/
